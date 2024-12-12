@@ -1,0 +1,20 @@
+# Python
+__pycache__
+
+# Базы данных
+*.database
+*.db
+*.sqlite3
+
+# Виртуальные окружения
+.env
+.venv
+venv
+poetry.lock
+
+# Записи логирования
+*.log
+
+# Редакторы кода
+.idea
+.vscode
