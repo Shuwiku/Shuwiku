@@ -1,0 +1,1 @@
+pyinstaller --noconfirm --onefile --console --icon "C:\path\to\icon.ico" --paths "C:\path\to\venv\Lib\site-packages\" "C:\path\to\simple_emailer_exec\simple_emailer_exec\__main__.py"
