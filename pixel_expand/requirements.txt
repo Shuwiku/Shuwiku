@@ -1,0 +1,2 @@
+pillow==11.0.0
+pixel-expand @ git+https://github.com/Shuwiku/pixel_expand.git@4866ac0fdda60e7872b8d656b4057b5416da838d
